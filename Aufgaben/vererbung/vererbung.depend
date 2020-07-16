@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570687930 source:/home/durand/Schreibtisch/Programierung_c++/vererbung/animal.cpp
+	<iostream>
+	<string>
+	"animal.h"
+
+1570687774 /home/durand/Schreibtisch/Programierung_c++/vererbung/animal.h
+	<iostream>
+	<string>
+

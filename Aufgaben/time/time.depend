@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570957858 source:/home/durand/Schreibtisch/Programierung_c++/time/main.cpp
+	<iostream>
+	<sys/time.h>
+

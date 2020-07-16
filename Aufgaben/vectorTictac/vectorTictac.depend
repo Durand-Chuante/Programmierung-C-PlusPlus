@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570594590 source:/home/durand/Schreibtisch/Programierung_c++/vectorTictac/main.cpp
+	<iostream>
+	<string>
+	<array>
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1562612514 source:/home/durand/Dokumente/Application/surcharge/DurandMark/ueb1/main.cpp
+	<iostream>
+	<string>
+
+1562620197 source:/home/durand/Schreibtisch/Programierung_c++/ueb1/main.cpp
+	<iostream>
+	<string>
+

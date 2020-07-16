@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563210958 source:/home/durand/Schreibtisch/Programierung_c++/file/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

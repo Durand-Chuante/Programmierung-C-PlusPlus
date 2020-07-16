@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571147840 source:/home/durand/Schreibtisch/Programierung_c++/Iterator/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

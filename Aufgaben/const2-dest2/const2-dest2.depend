@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594541192 source:/home/durand/Schreibtisch/Programmierung_c++/const2-dest2/main.cpp
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570543440 source:/home/durand/Schreibtisch/Programierung_c++/revision/main.cpp
+	<iostream>
+
+1570546509 source:/home/durand/Schreibtisch/Programmierung_c++/revision/main.cpp
+	<iostream>
+	"car.cpp"
+
+1570546513 /home/durand/Schreibtisch/Programmierung_c++/revision/car.cpp
+	<iostream>
+	<string>
+

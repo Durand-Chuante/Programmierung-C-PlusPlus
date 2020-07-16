@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563692081 source:/home/durand/Schreibtisch/Programierung_c++/limitarray/main.cpp
+	<iostream>
+	<string>
+	<array>
+

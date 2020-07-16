@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563742159 source:/home/durand/Schreibtisch/Programierung_c++/vectorSupermarkkasse/main.cpp
+	<iostream>
+	<vector>
+

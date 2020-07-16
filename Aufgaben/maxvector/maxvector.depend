@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571199195 source:/home/durand/Schreibtisch/Programierung_c++/maxvector/main.cpp
+	<iostream>
+	<vector>
+	<string>
+
